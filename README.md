@@ -1,5 +1,5 @@
 ### Hello
 
-***My name is Katr***
+***My name is Kat***
 
 ![Image](src) 
