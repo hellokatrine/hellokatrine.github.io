@@ -1,6 +1,2 @@
-### Hello
-
-***My name is Kat***
-
-![Image](src) 
-[Page!](hellokatrine.github.io/page "Testing")
+gem install jekyll bundler
+jekyll new myblog
